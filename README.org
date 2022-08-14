@@ -1,0 +1,3 @@
+* erb-mode
+
+This major mode add erb support based on the built-in =mhtml-mode=.
